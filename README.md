@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Dennis banner](https://github.com/robertruhiu/robertruhiu/blob/main/dennis.png)
 ### About me
 <code>
