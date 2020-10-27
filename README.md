@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Dennis banner](https://github.com/robertruhiu/robertruhiu/blob/main/dennis.png)
 ### About me
 <code>
 <p>Am a Fullstack developer specialized in the frameworks Django and Vuejs.
