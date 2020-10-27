@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-<!--
-**robertruhiu/robertruhiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-## Skills and Experience
+### About me
+<code>
+<p>Am a Fullstack developer specialized in the frameworks Django and Vuejs.
+   Fast iterator in technology with a strong working background on the node js 
+   framework.Abstract thinker challenging the normal thought process,fun to be
+    around.Skilled at creative problem solving,identifying unfair advantage 
+   opportunities in ideation,social circle personality fit. 
+</p></code>
+
+### Skills and Experience
 * Vue js
 * Django
 * Databases: Mongo,Postgres
 * 💻 HTML, CSS, JS
 
-## Examples of Work
-[remote codeln](https://remotestaging.herokuapp.com/)
- <img src="https://res.cloudinary.com/dwtvwjhn3/image/upload/v1603825769/pesonal/kanban_yguoo0.png" width="512" >  - 
- A task management tool to improve efficiency of your remote hires
+[![Robert Ruhiu's github stats](https://github-readme-stats.vercel.app/api?username=robertruhiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
