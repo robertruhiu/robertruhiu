@@ -1,17 +1,15 @@
 ![Dennis banner](https://github.com/robertruhiu/robertruhiu/blob/main/dennis.png)
 ### About me
 <code>
-<p>Am a Fullstack developer specialized in the frameworks Django and Vuejs.
+<p>Am a Fullstack developer specializing in the frameworks React JS - Typescript and Django.
    Fast iterator in technology with a strong working background on the node js 
-   framework.Abstract thinker challenging the normal thought process,fun to be
-    around.Skilled at creative problem solving,identifying unfair advantage 
-   opportunities in ideation,social circle personality fit. 
+   framework.Abstract thinker challenging the normal thought process. 
 </p></code>
 
 ### Skills and Experience
-* Vue js
+* React JS - Typescript
 * Django
-* Databases: Mongo,Postgres
+* Databases: Mongo, Postgresql
 * 💻 HTML, CSS, JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertruhiu)](https://github.com/anuraghazra/github-readme-stats)
